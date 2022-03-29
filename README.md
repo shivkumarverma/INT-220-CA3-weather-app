@@ -38,7 +38,5 @@ Weather app displays the accurate weather and climate condition of various citie
 
 ## Screenshots
 
-![App Screenshot]("screenshots/Screenshot (459).png")
-![App Screenshot]("screenshots/Screenshot (459).png")
-![App Screenshot]("screenshots/Screenshot (459).png")
+<img src="screenshots/Screenshot (459).png">
 
