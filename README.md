@@ -1,19 +1,42 @@
-# Login & Registration Form In PHP And MySQL 2022
 
-version: 1.0.0
+# Weather App
 
-## TECHNOLOGIES
+Weather app displays the accurate weather and climate condition of various cities accorss the world.
 
-1. PHP
-1. MYSQL
-1. BOOTSTRAP 5
-1. HTML
-1. CSS
+### list of things that the app displays :
+    
+     1. Currrent temperature in (degree celcius)
+     2. Weather condition
+     3. Atmospheric pressure (in mbar)
+     4. Wind speed (in m/s)
+     5. Sunrise
+     6. Date and time
 
-## Full Tutorial
+## Addional 
 
-[On Youtube](https://youtu.be/R7lFjX5kcYY)
+ Along with weather details  and condition, a login and sign up system also has been implemented.
+ 
+      
 
-## Authors
 
-[Elias Abdurrahman](https://github.com/codingWithElias)
+
+
+
+
+
+
+
+
+## Tech Stack
+
+**Client:** Html,css,javascript
+
+**Server:** php
+
+**Database** mysql
+
+
+## Screenshots
+
+![App Screenshot]("")
+
